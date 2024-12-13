@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-      <p>@2024 Edusity .All Right Reserved</p>
+      <p>@2024 University .All Right Reserved</p>
       <ul>
         <li>Terms of Services</li>
         <li>Privacy Policy</li>
